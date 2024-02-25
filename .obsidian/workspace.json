@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "6cc58e86a54430b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "252e63973af42287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dd1fd6f974c7c4b",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "calender/2024-02-25-Sunday.md"
+              }
+            }
+          },
+          {
+            "id": "f816d26c8f68e0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Syllabus/Recon/SMB basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "945c6fb329f0ab08",
+    "type": "split",
+    "children": [
+      {
+        "id": "82bc640408f8ad52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "433149b08d1f557a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31b482c762eedd6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "de04cf0f94dbd1e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e719b332c0d26be6",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54ac2ba0cfa93158",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2bd1af930db9af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f07f2e419d36b531",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "calender/2024-02-25-Sunday.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4d46980f42fa88b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "calender/2024-02-25-Sunday.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6dee6a21959a94e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "56e4de6b1158279d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "calender/2024-02-25-Sunday.md"
+              }
+            }
+          },
+          {
+            "id": "da8732217b33f986",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e4394cc30c84cb9",
+            "type": "leaf",
+            "state": {
+              "type": "reference-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7531e7c5f8dc610e",
+            "type": "leaf",
+            "state": {
+              "type": "zotero-annotation-view",
+              "state": {
+                "itemId": -1,
+                "attachmentId": -1,
+                "follow": "zt-reader"
+              }
+            }
+          },
+          {
+            "id": "4d575f2702728c71",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "e719b332c0d26be6",
+  "lastOpenFiles": [
+    "images/Pasted image 20240225171817.png",
+    "images/Pasted image 20240225123912.png",
+    "images/Pasted image 20240225123843.png",
+    "images/Pasted image 20240225123800.png",
+    "images/Pasted image 20240225113734.png",
+    "images/Pasted image 20240224123546.png",
+    "images",
+    "OSCP/Syllabus/Recon/SMB Footprinting.md",
+    "OSCP/Syllabus/Recon/SMB basics.md",
+    "OSCP/Syllabus/Basic tools/Nmap/Scripts.md",
+    "OSCP/Syllabus/Basic tools/Nmap/Nmap.md",
+    "Pasted image 20240225171817.png",
+    "OSCP/Syllabus/Recon/Enumeration Methodology.md",
+    "OSCP/Syllabus/Recon/Passive Recon/Passive Recon.md",
+    "OSCP/Syllabus/Recon/Recon.md",
+    "OSCP/Syllabus/Recon",
+    "OSCP/Syllabus/Recon/Passive Recon/Cloud Resources.md",
+    "OSCP/Syllabus/Recon/Passive Recon/Domain Information.md",
+    "OSCP/Syllabus/Recon/Active Recon/FTP Footprinting.md",
+    "OSCP/Syllabus/Recon/Active Recon/FTP Basics.md",
+    "Pasted image 20240225123912.png",
+    "Pasted image 20240225123843.png",
+    "Pasted image 20240225123800.png",
+    "Untitled.md",
+    "Pasted image 20240225113734.png",
+    "OSCP/Syllabus/Active Recon/DNS.md",
+    "calender/2024-02-25-Sunday.md",
+    "OSCP/Syllabus/Recon/Active Recon/Active Recon.md",
+    "calender/Global Kanban.md",
+    "OSCP/Syllabus/Basic tools/Nmap/Zenmap Scan Types.md",
+    "OSCP/Syllabus/Basic tools/Nmap/Using  tcpdump to get broken banners.md",
+    "OSCP/Syllabus/Basic tools/Nmap/UDP.md",
+    "OSCP/Syllabus/Basic tools/Nmap/Timing Templates.md",
+    "OSCP/Syllabus/Basic tools/Nmap/Scan Types.md",
+    "OSCP/Syllabus/Basic tools/Nmap/Output types.md",
+    "OSCP/Syllabus/Basic tools/Nmap/NMAP Flag Guide.md",
+    "OSCP/Syllabus/Basic tools/Nmap/How to set targets.md",
+    "OSCP/Syllabus/Basic tools/Nmap/Firewalls and IDS + IPS evasion.md",
+    "OSCP/Syllabus/SQL Injection",
+    "OSCP/Syllabus/Client Side Attacks/MS Library Files",
+    "OSCP/Syllabus/Client Side Attacks/MS word macro",
+    "OSCP/Syllabus/Client Side Attacks/XSS",
+    "OSCP/Syllabus/Basic tools/Nmap",
+    "OSCP/Syllabus/Basic tools/Nmap/HTBA Nmap",
+    "templates",
+    "calender",
+    "Untitled.canvas"
+  ]
+}

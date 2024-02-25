@@ -1,0 +1,59 @@
+/* hide comment markup except for line is selected */
+.cm-line:not(.cm-active) .cm-comment.cm-comment-start,
+.cm-line:not(.cm-active) .cm-comment.cm-comment-end
+    { display: none; }
+
+
+/* smooth cursor animation like vscode (https://forum.obsidian.md/t/cursor-smooth-caret-animation/31068/2) 
+*/
+
+/* Styling for the Ninja Cursor*/
+.theme-dark .x-cursor {
+  background: white;
+  width: 1px;
+  /* How slow you want the cursor to be */
+  transition: all 140ms !important;
+  transition: opacity;
+  top: calc( -2.5px - var(--header-height));;
+  height: calc(2.5px + var(--cursor-height));
+  margin-left: 1px;
+}
+
+/* Hides Regular Cursor when Highlighting Text*/
+body:has(.x-cursor) .cm-editor * {
+  caret-color: transparent;
+}
+
+/* Disable movement effect */
+.cursorWrapper .x-cursor::after {
+  display: none;
+}
+
+/* Remove normal cursor on text selection */
+.cm-cursorLayer {
+  animation: none !important;
+}
+
+/* Blinking */
+.cursorWrapper .x-cursor0 {
+animation: blink0 1s 1s both infinite;
+}
+.cursorWrapper .x-cursor1 {
+  animation: blink1 1s 1s both infinite;
+}
+
+@keyframes blink1 {
+  0%   { opacity: 1; }
+  45%  { opacity: 1; }
+  50%  { opacity: 1;}
+  95%  { opacity: 1; }
+  100% { opacity: 1; }
+}
+
+@keyframes blink0 {
+  0%   { opacity: 1; }
+  45%  { opacity: 1; }
+  50%  { opacity: 1;}
+  95%  { opacity: 1; }
+  100% { opacity: 1; }
+}

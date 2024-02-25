@@ -1,0 +1,33 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "CyberSecurity": 1,
+    "calendar": 2,
+    "world-history": 3,
+    "comp": 4,
+    "psych": 5,
+    "orgdesign": 6,
+    "daily-notes": 7,
+    "work": 8,
+    "task-2": 9,
+    "overdue": 10,
+    "reinforcement": 11,
+    "sem-2": 12,
+    "project-1": 13,
+    "test": 14,
+    "cold-war": 15,
+    "tools": 16,
+    "HTB-Academy": 17,
+    "web-guide": 18
+  },
+  "_version": 3
+}

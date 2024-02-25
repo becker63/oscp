@@ -1,0 +1,10 @@
+{
+  "accentColor": "#912b56",
+  "enabledCssSnippets": [
+    "snippet",
+    "custom-admonitions.f72d89",
+    "highlightrminimal"
+  ],
+  "cssTheme": "Minimal",
+  "theme": "obsidian"
+}

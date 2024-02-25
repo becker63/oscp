@@ -1,0 +1,6 @@
+{
+  "format": "YYYY-MM-DD-dddd",
+  "autorun": true,
+  "template": "templates/Daily note template.md",
+  "folder": "calender/"
+}

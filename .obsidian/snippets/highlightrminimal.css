@@ -1,0 +1,63 @@
+/* data.json for highlightr plugin */
+/* replce your highlightr config located in: [vault]\.obsidian\plugins\highlightr-plugin\data.json */
+/* {"highlighterStyle":"rounded","highlighterMethods":"css-classes","highlighters":{"r":"#bf616a","g":"#a3be8c","p":"#b48ead","b":"#81a1c1","aa":"#a5756233","o":"#d08770"},"highlighterOrder":["aa","r","g","b","p","o"]} */
+
+/* restyle the vanilla highlight to rosebox color */
+.markdown-preview-view,
+.cm-s-obsidian span.cm-formatting-highlight, 
+.cm-s-obsidian span.cm-highlight  { --text-highlight-bg: #a5756233; }
+
+.theme-dark .markdown-preview-view mark,
+.markdown-preview-view mark,
+:is(.markdown-preview-view, .markdown-rendered) mark, 
+.cm-s-obsidian span.cm-highlight { 
+	background: #a5756233; 
+	color: var(--text-normal);
+}
+
+/* Change text color to black */
+mark.hltr-pink,
+mark.hltr-red,
+mark.hltr-orange,
+mark.hltr-yellow,
+mark.hltr-green,
+mark.hltr-cyan,
+mark.hltr-blue,
+mark.hltr-purple,
+mark.hltr-grey
+{
+    color: #000000 !important;
+    border-radius: 3px;
+}
+
+/* highlightr compact menu */
+.menu.highlighterContainer {
+    display: flex !important;
+    width: max-content !important;
+    padding: .2rem .5rem !important;
+    overflow-x: none !important;
+}
+.menu.highlighterContainer .menu-item {
+   padding: 0;
+   margin: 0;
+   border-bottom: transparent;
+   border-radius: 5px;
+   
+   justify-content: center;
+   align-items: center;
+
+   aspect-ratio: 1/1;
+
+}
+.menu.highlighterContainer .menu-item .menu-item-title {
+	display: none;
+}
+.menu.highlighterContainer .menu-item .menu-item-icon {
+	height: min-content;
+	width: min-content;
+}
+
+/* consistent icon stroke width with others */
+.highlightr-eraser svg path, .highlightr-pen svg path {
+    stroke-width: .3px !important;
+}
