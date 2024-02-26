@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5dd1fd6f974c7c4b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "calender/2024-02-25-Sunday.md"
-              }
-            }
-          },
-          {
             "id": "f816d26c8f68e0fc",
             "type": "leaf",
             "state": {
@@ -88,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "54ac2ba0cfa93158",
@@ -104,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "calender/2024-02-25-Sunday.md",
+                "file": "OSCP/Syllabus/Recon/SMB basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "calender/2024-02-25-Sunday.md",
+                "file": "OSCP/Syllabus/Recon/SMB basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "calender/2024-02-25-Sunday.md"
+                "file": "OSCP/Syllabus/Recon/SMB basics.md"
               }
             }
           },
@@ -208,8 +199,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e719b332c0d26be6",
+  "active": "f816d26c8f68e0fc",
   "lastOpenFiles": [
+    "calender/2024-02-25-Sunday.md",
+    "Untitled 1.md",
+    "OSCP/Syllabus/Web Application Attacks/command Injection.md",
     "images/Pasted image 20240225171817.png",
     "images/Pasted image 20240225123912.png",
     "images/Pasted image 20240225123843.png",
@@ -234,9 +228,7 @@
     "Pasted image 20240225123843.png",
     "Pasted image 20240225123800.png",
     "Untitled.md",
-    "Pasted image 20240225113734.png",
     "OSCP/Syllabus/Active Recon/DNS.md",
-    "calender/2024-02-25-Sunday.md",
     "OSCP/Syllabus/Recon/Active Recon/Active Recon.md",
     "calender/Global Kanban.md",
     "OSCP/Syllabus/Basic tools/Nmap/Zenmap Scan Types.md",
@@ -247,7 +239,6 @@
     "OSCP/Syllabus/Basic tools/Nmap/Output types.md",
     "OSCP/Syllabus/Basic tools/Nmap/NMAP Flag Guide.md",
     "OSCP/Syllabus/Basic tools/Nmap/How to set targets.md",
-    "OSCP/Syllabus/Basic tools/Nmap/Firewalls and IDS + IPS evasion.md",
     "OSCP/Syllabus/SQL Injection",
     "OSCP/Syllabus/Client Side Attacks/MS Library Files",
     "OSCP/Syllabus/Client Side Attacks/MS word macro",
