@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Syllabus/Recon/SMB basics.md",
+                "file": "OSCP/Syllabus/Recon/NFS Footprinting.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "54ac2ba0cfa93158",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Syllabus/Recon/SMB basics.md",
+                "file": "OSCP/Syllabus/Recon/NFS Footprinting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Syllabus/Recon/SMB basics.md",
+                "file": "OSCP/Syllabus/Recon/NFS Footprinting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Syllabus/Recon/SMB basics.md"
+                "file": "OSCP/Syllabus/Recon/NFS Footprinting.md"
               }
             }
           },
@@ -201,6 +200,10 @@
   },
   "active": "f816d26c8f68e0fc",
   "lastOpenFiles": [
+    "OSCP/Syllabus/Recon/SMB Footprinting.md",
+    "OSCP/Syllabus/Recon/SMB basics.md",
+    "OSCP/Syllabus/Recon/NFS Footprinting.md",
+    "OSCP/Syllabus/Recon/NFS Basics.md",
     "calender/2024-02-25-Sunday.md",
     "Untitled 1.md",
     "OSCP/Syllabus/Web Application Attacks/command Injection.md",
@@ -211,8 +214,6 @@
     "images/Pasted image 20240225113734.png",
     "images/Pasted image 20240224123546.png",
     "images",
-    "OSCP/Syllabus/Recon/SMB Footprinting.md",
-    "OSCP/Syllabus/Recon/SMB basics.md",
     "OSCP/Syllabus/Basic tools/Nmap/Scripts.md",
     "OSCP/Syllabus/Basic tools/Nmap/Nmap.md",
     "Pasted image 20240225171817.png",
@@ -237,8 +238,6 @@
     "OSCP/Syllabus/Basic tools/Nmap/Timing Templates.md",
     "OSCP/Syllabus/Basic tools/Nmap/Scan Types.md",
     "OSCP/Syllabus/Basic tools/Nmap/Output types.md",
-    "OSCP/Syllabus/Basic tools/Nmap/NMAP Flag Guide.md",
-    "OSCP/Syllabus/Basic tools/Nmap/How to set targets.md",
     "OSCP/Syllabus/SQL Injection",
     "OSCP/Syllabus/Client Side Attacks/MS Library Files",
     "OSCP/Syllabus/Client Side Attacks/MS word macro",

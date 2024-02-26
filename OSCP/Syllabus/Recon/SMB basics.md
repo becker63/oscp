@@ -6,6 +6,7 @@ tags:
 # What is SMB?
 * SMB is a file transfer protocol mostly used for a the windows operating system. 
 * Uses TCP 
+* Also uses RPC like smb
 * very old
 	* Every version of windows can communicate through this protocol 
 * Not necessarily based off the systems file structure 
