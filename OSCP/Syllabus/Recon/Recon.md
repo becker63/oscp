@@ -8,5 +8,7 @@
 - **[[Passive Recon]]**
 - [[SMB basics]]
 - [[SMB Footprinting]]
+- [[SMTP Basics]]
+- [[SMTP Enumeration]]
 
 %% End Waypoint %%
