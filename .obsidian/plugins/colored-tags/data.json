@@ -27,7 +27,12 @@
     "cold-war": 15,
     "tools": 16,
     "HTB-Academy": 17,
-    "web-guide": 18
+    "web-guide": 18,
+    "List": 19,
+    "Like": 20,
+    "Disk": 21,
+    "Scan": 22,
+    "Will": 23
   },
   "_version": 3
 }

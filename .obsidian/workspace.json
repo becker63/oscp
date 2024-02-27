@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "252e63973af42287",
+        "id": "76bc37823990b04f",
         "type": "tabs",
         "children": [
           {
-            "id": "f816d26c8f68e0fc",
+            "id": "d8b709f04a4d4c61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Syllabus/Recon/NFS Footprinting.md",
+                "file": "OSCP/Syllabus/Recon/DNS Footprinting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f8eb39023c69e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Syllabus/Recon/DNS Footprinting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,17 +77,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "e719b332c0d26be6",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -94,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Syllabus/Recon/NFS Footprinting.md",
+                "file": "OSCP/Syllabus/Recon/DNS Footprinting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Syllabus/Recon/NFS Footprinting.md",
+                "file": "OSCP/Syllabus/Recon/DNS Footprinting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Syllabus/Recon/NFS Footprinting.md"
+                "file": "OSCP/Syllabus/Recon/DNS Footprinting.md"
               }
             }
           },
@@ -173,9 +178,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "e719b332c0d26be6",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,11 +210,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "f816d26c8f68e0fc",
+  "active": "0f8eb39023c69e86",
   "lastOpenFiles": [
+    "OSCP/Syllabus/Recon/DNS Basics.md",
+    "OSCP/Syllabus/Recon/DNS Footprinting.md",
+    "OSCP/Syllabus/Active Directory/Active Directory.md",
+    "Active Directory.md",
+    "Untitled 2.md",
+    "OSCP/Syllabus/Active Directory",
+    "OSCP/Syllabus/Recon/NFS Footprinting.md",
+    "calender/2024-02-26-Monday.md",
     "OSCP/Syllabus/Recon/SMB Footprinting.md",
     "OSCP/Syllabus/Recon/SMB basics.md",
-    "OSCP/Syllabus/Recon/NFS Footprinting.md",
     "OSCP/Syllabus/Recon/NFS Basics.md",
     "calender/2024-02-25-Sunday.md",
     "Untitled 1.md",
@@ -232,12 +251,6 @@
     "OSCP/Syllabus/Active Recon/DNS.md",
     "OSCP/Syllabus/Recon/Active Recon/Active Recon.md",
     "calender/Global Kanban.md",
-    "OSCP/Syllabus/Basic tools/Nmap/Zenmap Scan Types.md",
-    "OSCP/Syllabus/Basic tools/Nmap/Using  tcpdump to get broken banners.md",
-    "OSCP/Syllabus/Basic tools/Nmap/UDP.md",
-    "OSCP/Syllabus/Basic tools/Nmap/Timing Templates.md",
-    "OSCP/Syllabus/Basic tools/Nmap/Scan Types.md",
-    "OSCP/Syllabus/Basic tools/Nmap/Output types.md",
     "OSCP/Syllabus/SQL Injection",
     "OSCP/Syllabus/Client Side Attacks/MS Library Files",
     "OSCP/Syllabus/Client Side Attacks/MS word macro",
@@ -245,7 +258,6 @@
     "OSCP/Syllabus/Basic tools/Nmap",
     "OSCP/Syllabus/Basic tools/Nmap/HTBA Nmap",
     "templates",
-    "calender",
     "Untitled.canvas"
   ]
 }
