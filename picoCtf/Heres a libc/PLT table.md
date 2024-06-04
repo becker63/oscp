@@ -1,0 +1,1 @@
+https://systemoverlord.com/2017/03/19/got-and-plt-for-pwning.html
