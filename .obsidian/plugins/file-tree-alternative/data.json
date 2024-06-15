@@ -6,7 +6,7 @@
   "searchFunction": true,
   "allSearchOnlyInFocusedFolder": false,
   "showFilesFromSubFoldersButton": true,
-  "revealActiveFileButton": false,
+  "revealActiveFileButton": true,
   "excludedExtensions": "",
   "folderIcon": "default",
   "folderCount": true,

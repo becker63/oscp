@@ -1,7 +1,6 @@
 [
   "obsidian-annotator",
   "dataview",
-  "obsidian-full-calendar",
   "obsidian-git",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
@@ -16,10 +15,11 @@
   "waypoint",
   "obsidian-pandoc",
   "emoji-shortcodes",
-  "file-tree-alternative",
   "cm-editor-syntax-highlight-obsidian",
   "obsidian-link-embed",
   "table-editor-obsidian",
   "obsidian-tasks-plugin",
-  "obsidian42-brat"
+  "obsidian42-brat",
+  "obsidian-electron-window-tweaker",
+  "file-tree-alternative"
 ]

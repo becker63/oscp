@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b26687bd68574bdf",
+        "id": "f3a3c46c036d0434",
         "type": "tabs",
         "children": [
           {
-            "id": "eb03538049929945",
+            "id": "a055344f6b1a04c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Syllabus/Basic tools/Nmap/NMAP Flag Guide.md",
+                "file": "Pentest+/hotonetwork Course/Vuln Scan Tools/Nikto.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b833532f8e02826c",
+            "id": "f4bd821177be7cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Syllabus/Basic tools/Nmap/Firewalls and IDS + IPS evasion.md",
+                "file": "Pentest+/hotonetwork Course/Vuln Scan Tools/Nessus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0ac822f5fa22708",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pentest+/hotonetwork Course/Vuln Scan Tools/Nessus.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +91,7 @@
             }
           },
           {
-            "id": "e719b332c0d26be6",
+            "id": "edb80da7582e8d6b",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -107,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Syllabus/Basic tools/Nmap/Firewalls and IDS + IPS evasion.md",
+                "file": "Pentest+/hotonetwork Course/Vuln Scan Tools/Nessus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Syllabus/Basic tools/Nmap/Firewalls and IDS + IPS evasion.md",
+                "file": "Pentest+/hotonetwork Course/Vuln Scan Tools/Nessus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Syllabus/Basic tools/Nmap/Firewalls and IDS + IPS evasion.md"
+                "file": "Pentest+/hotonetwork Course/Vuln Scan Tools/Nessus.md"
               }
             }
           },
@@ -203,62 +215,61 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "templater-obsidian:Templater": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b833532f8e02826c",
+  "active": "f0ac822f5fa22708",
   "lastOpenFiles": [
-    "OSCP/Syllabus/Basic tools/Nmap/NMAP Flag Guide.md",
-    "OSCP/Syllabus/Basic tools/Nmap/How to set targets.md",
-    "calender/2024-05-08-Wednesday.md",
-    "skillsusa cyber 2024/NIST Content.md",
-    "skillsusa cyber 2024/Securely Provision.md",
-    "skillsusa cyber 2024/Protect and Defend.md",
-    "skillsusa cyber 2024/Operate and Maintain.md",
-    "Securely Provision.md",
-    "calender/2024-04-01-Monday.md",
-    "Untitled 3.md",
-    "skillsusa cyber 2024",
-    "calender/2024-03-13-Wednesday.md",
-    "picoCtf/Heres a libc/GOT table.md",
-    "picoCtf/Heres a libc/Dynamic Vs Static linking.md",
-    "picoCtf/Heres a libc/Writeup.md",
-    "picoCtf/Heres a libc/PLT table.md",
-    "picoCtf/Heres a libc/Heres a libc.md",
-    "calender/2024-03-07-Thursday.md",
-    "picoCtf/Heres a libc",
-    "picoCtf",
-    "calender/2024-03-01-Friday.md",
-    "OSCP/Syllabus/Recon/SMTP Basics.md",
-    "OSCP/Syllabus/Recon/SMTP Enumeration.md",
-    "IMAP or POP3 Basics.md",
-    "IMAP/POP3 Basics.md",
-    "OSCP/Syllabus/Recon/DNS Footprinting.md",
-    "IMAP",
-    "OSCP/Syllabus/Recon/DNS Basics.md",
-    "OSCP/Syllabus/Active Directory/Active Directory.md",
-    "Active Directory.md",
-    "OSCP/Syllabus/Active Directory",
+    "Pentest+/hotonetwork Course/Vuln Scan Tools/Nikto.md",
+    "Pentest+/hotonetwork Course/Vuln Scan Tools/SQLMap.md",
+    "Pentest+/hotonetwork Course/Vuln Scan Tools/Nessus.md",
+    "Pentest+/hotonetwork Course/Vuln Scan Tools/Vuln Scan Tools.md",
+    "Pentest+/hotonetwork Course/hotonetwork Course.md",
+    "OSCP/OSCP.md",
+    "Pentest+/hotonetwork Course/Vuln Scan Tools",
+    "OSCP/Syllabus/Web Application Attacks/Web Application Attacks.md",
+    "Pentest+/Planning and scoping and legality/Vulnerability management legality/Regulatory acts to consider.md",
+    "Pentest+/Planning and scoping and legality/Vulnerability management legality/Vuln management Programs.md",
+    "Pentest+/Planning and scoping and legality/Vulnerability management legality/Vulnerability management legality.md",
+    "Pentest+/Planning and scoping and legality/Video course/Things needed for engagement.md",
+    "Pentest+/Planning and scoping and legality/Vulnerability management legality",
+    "OSCP/Syllabus/Recon/Passive Recon/Company Information.md",
+    "OSCP/Syllabus/Recon/Passive Recon/Cloud Resources.md",
+    "OSCP/Syllabus/Recon/Passive Recon/Domain Information.md",
+    "OSCP/Syllabus/Recon/Active Recon/DNS Footprinting.md",
+    "OSCP/Syllabus/Recon/Active Recon/DNS Basics.md",
+    "OSCP/Syllabus/Recon/Enumeration Methodology.md",
+    "OSCP/Syllabus/Recon/Active Recon/Active Recon.md",
+    "Pentest+/hotonetwork Course/Passive Info gathering tools.md",
+    "Pentest+/Practice test wrong questions.md",
+    "OSCP/Syllabus/Recon/Passive Recon/Passive Recon.md",
+    "Pentest+/Planning and scoping and legality/Video course/What needs to be planned.md",
+    "Pentest+/hotonetwork Course",
+    "Pentest+/Planning and scoping and legality/Video course/Video course.md",
+    "Pentest+/Planning and scoping and legality/Video course/Types of assessments.md",
+    "Pentest+/Planning and scoping and legality/Video course/Target selection.md",
+    "Pentest+/Planning and scoping and legality/Video course/Rules of Engagement.md",
+    "Pentest+/comptia-pentest-pt0-002-exam-objectives-(4-0).pdf",
     "images/Pasted image 20240225171817.png",
     "images/Pasted image 20240225123912.png",
     "images/Pasted image 20240225123843.png",
     "images/Pasted image 20240225123800.png",
     "images/Pasted image 20240225113734.png",
     "images/Pasted image 20240224123546.png",
-    "images",
+    "Pentest+/Planning and scoping and legality/Video course",
+    "Pentest+/Planning and scoping and legality",
+    "Pentest+/video course",
+    "Pentest+",
+    "Pentest+ .Pentest+",
+    "skillsusa cyber 2024",
     "Pasted image 20240225171817.png",
-    "OSCP/Syllabus/Recon",
     "Pasted image 20240225123912.png",
     "Pasted image 20240225123843.png",
     "Pasted image 20240225123800.png",
-    "OSCP/Syllabus/SQL Injection",
-    "OSCP/Syllabus/Client Side Attacks/MS Library Files",
-    "OSCP/Syllabus/Client Side Attacks/MS word macro",
     "Untitled.canvas"
   ]
 }
